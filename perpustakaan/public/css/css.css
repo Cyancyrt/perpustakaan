@@ -1,0 +1,8 @@
+.border {
+   -webkit-border-bottom-right-radius: 20px;
+   -moz-border-radius-bottomright: 20px;
+    border-bottom-right-radius: 20px;
+}
+nav{
+    background-color: linear-gradient(to right, #32be8f, #38d39f, #32be8f);
+}
